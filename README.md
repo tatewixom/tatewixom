@@ -8,4 +8,4 @@
   - tatewixdeveloper@gmail.com
  
 • Project(s) working on are:
-  - A basic game with collision, animated characters, and basic user handling
+  - A basic game with collision, animated characters, 3D animation, and basic user handling
