@@ -2,7 +2,7 @@
  
 • I'm interested in game development
  
-• I'm currently learning C++ & SFML
+• I'm currently learning C++ & OpenGL
  
 • You can contact me at:
   - tatewixdeveloper@gmail.com
